@@ -92,38 +92,6 @@ I am particularly interested in the engineering challenges behind deploying AI m
 
 ---
 
-## 📌 Featured Projects
-
-### 📄 ContractLens — AI Document Intelligence
-
-An AI-powered legal document intelligence system for analyzing contracts and answering questions using natural language.
-
-**Focus:** LLM · RAG · Document Intelligence · Local LLM · API
-
-**Stack:** LangChain · Ollama · Django REST Framework · Next.js · Docker
-
----
-
-### 🩻 Chest X-Ray AI
-
-A deep learning pipeline for medical image classification using chest X-ray images.
-
-**Focus:** Computer Vision · Medical Imaging · Deep Learning · Model Inference
-
-**Stack:** PyTorch / TensorFlow · Python · OpenCV
-
----
-
-### 📡 Signal Processing & ML
-
-Machine learning approaches for extracting useful information from signal and time-series data.
-
-**Focus:** DSP · Feature Extraction · Time-Series ML · Signal Classification
-
-**Stack:** Python · NumPy · SciPy · Scikit-learn
-
----
-
 ## 🎯 Currently Learning & Building
 
 - AI Inference Engineering
@@ -148,7 +116,7 @@ I am interested in building AI systems that connect **models, inference, APIs, i
 
 ## 📫 Connect With Me
 
-- 🌐 **Website:** https://amirhassanadeli.com/
+- 🌐 **Website:** https://amirhassanadeli.com
 - 💼 **LinkedIn:** https://linkedin.com/in/amirhassanadeli
 - 💻 **GitHub:** https://github.com/amirhassanadeli
 - 📧 **Email:** amirhassanadeli.ai@gmail.com
