@@ -1,72 +1,158 @@
-# Hi 👋, I'm Amirhassan Adeli
+# Hi, I'm Amirhassan Adeli 👋
 
-### Data Science & Machine Learning Engineer
+## AI Inference Engineer
 
-Passionate about building intelligent systems with **Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing (NLP)**.
+I build, optimize, and deploy AI models for real-world applications.
 
----
+My work focuses on **efficient and production-ready AI inference** across three domains:
 
-## 👨‍💻 About Me
+- 🟦 **Computer Vision**
+- 🟪 **Language Models & Generative AI**
+- 🟩 **Signal Processing & Time-Series ML**
 
-* 🎓 M.Sc. student in Software Engineering
-* 🤖 Interested in **Data Science, Machine Learning, and AI**
-* 🧠 Focused on **Computer Vision, Signal Processing, and NLP**
-* ⚙️ Currently learning **Fine-Tuning, Transfer Learning, and MLOps**
-* 🐧 Daily tools: **Python, Linux, Git, Docker**
+My goal is to bridge the gap between **trained AI models and reliable production systems** — from model optimization and inference to APIs, deployment, and real-world applications.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Areas of Focus
 
-### Languages
+### 🟦 Computer Vision
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+- Image Classification
+- Object Detection & Image Analysis
+- Medical Imaging
+- Deep Learning Inference
+- Model Optimization & Deployment
+- OpenCV & PyTorch
 
-### Data Science
+### 🟪 Language Models & Generative AI
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=plotly\&logoColor=white)
+- LLM Inference
+- Retrieval-Augmented Generation (RAG)
+- Document Intelligence
+- AI Agents & LLM Workflows
+- Embeddings & Vector Search
+- Local LLM Deployment
+- LangChain & Ollama
 
-### Machine Learning & Deep Learning
+### 🟩 Signal Processing & Time-Series ML
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-
-### AI & NLP
-
-![LangChain](https://img.shields.io/badge/LangChain-00C853?style=for-the-badge\&logo=chainlink\&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge\&logo=ollama\&logoColor=white)
-
-### Backend & Tools
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-
----
-
-## 🎯 Current Focus
-
-* Computer Vision
-* Signal Processing
-* Natural Language Processing (NLP)
-* Hyperparameter Tuning
-* Fine-Tuning & Transfer Learning
-* TinyML & Embedded AI
-* MLOps Fundamentals
+- Digital Signal Processing (DSP)
+- Time-Series Analysis
+- Feature Extraction
+- Signal Classification
+- Anomaly Detection
+- Machine Learning for Signal Data
 
 ---
 
-## 📫 Connect with Me
+## ⚙️ AI Inference & Engineering
 
-* 🔗 LinkedIn: https://linkedin.com/in/amirhassanadeli
-* 💻 GitHub: https://github.com/amirhassanadeli
-* 📧 Email: [amirhassanadeli.ai@gmail.com](mailto:amirhassanadeli.ai@gmail.com)
+I am particularly interested in the engineering challenges behind deploying AI models efficiently:
+
+- Model Inference & Serving
+- Model Optimization
+- Quantization
+- GPU/CPU Inference
+- Latency & Throughput Optimization
+- REST APIs for AI Models
+- Containerized AI Deployment
+- Production AI Systems
 
 ---
 
-⭐ *Always learning, always building.*
+## 🛠️ Technology Stack
+
+### AI & Deep Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### LLM & Generative AI
+
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
+### Data & Signal Processing
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Backend & Infrastructure
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+### 📄 ContractLens — AI Document Intelligence
+
+An AI-powered legal document intelligence system for analyzing contracts and answering questions using natural language.
+
+**Focus:** LLM · RAG · Document Intelligence · Local LLM · API
+
+**Stack:** LangChain · Ollama · Django REST Framework · Next.js · Docker
+
+---
+
+### 🩻 Chest X-Ray AI
+
+A deep learning pipeline for medical image classification using chest X-ray images.
+
+**Focus:** Computer Vision · Medical Imaging · Deep Learning · Model Inference
+
+**Stack:** PyTorch / TensorFlow · Python · OpenCV
+
+---
+
+### 📡 Signal Processing & ML
+
+Machine learning approaches for extracting useful information from signal and time-series data.
+
+**Focus:** DSP · Feature Extraction · Time-Series ML · Signal Classification
+
+**Stack:** Python · NumPy · SciPy · Scikit-learn
+
+---
+
+## 🎯 Currently Learning & Building
+
+- AI Inference Engineering
+- LLM Inference & Serving
+- Model Optimization
+- Quantization
+- Computer Vision Deployment
+- RAG & Production LLM Systems
+- Signal Processing & Time-Series ML
+- MLOps & AI Infrastructure
+
+---
+
+## 📊 Engineering Philosophy
+
+> **A trained model is only the beginning.  
+> The real challenge is making it fast, reliable, efficient, and useful in production.**
+
+I am interested in building AI systems that connect **models, inference, APIs, infrastructure, and real-world applications**.
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 **Website:** https://amirhassanadeli.com/
+- 💼 **LinkedIn:** https://linkedin.com/in/amirhassanadeli
+- 💻 **GitHub:** https://github.com/amirhassanadeli
+- 📧 **Email:** amirhassanadeli.ai@gmail.com
+
+---
+
+⭐ *Building efficient AI systems, one inference at a time.*
